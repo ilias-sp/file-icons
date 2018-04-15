@@ -15,7 +15,7 @@ use Websemantics\FileIcons\Icon\IconTables;
 class FileIcons
 {
     /* This is probably for the right way to do it! */
-    private static $css  =  '/vendor/websemantics/file-icons/assets/css/file-icons.css';
+    private static $css  =  '/vendor/ilias-sp/file-icons/assets/css/file-icons.css';
 
     /**
      * File icons database helper class instance.
