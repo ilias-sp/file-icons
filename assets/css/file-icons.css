@@ -189,6 +189,7 @@
 .css3-icon:before         { font-family: FontAwesome; font-size: 13px; content: "\f13c"; top: 0; }
 .circle-icon:before       { font-family: FontAwesome; font-size: 13px; content: "\f111"; font-size: 16px; top: 1px; }
 .earth-icon:before        { font-family: FontAwesome; font-size: 13px; content: "\f0ac"; font-size: 15px; }
+.folder-icon:before       { font-family: FontAwesome; font-size: 13px; content: "\f07b"; font-size: 15px; }
 .gears-icon:before        { font-family: FontAwesome; font-size: 13px; content: "\f085"; font-size: 15px; }
 .html5-icon:before        { font-family: FontAwesome; font-size: 13px; content: "\f13b"; font-size: 15px; top: 1px; }
 .mobile-icon:before       { font-family: FontAwesome; font-size: 13px; content: "\f10b"; font-size: 20px; top: 2px; }
