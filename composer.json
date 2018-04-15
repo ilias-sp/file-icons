@@ -1,5 +1,5 @@
 {
-    "name": "websemantics/file-icons",
+    "name": "ilias-sp/file-icons",
     "description": "File specific icons for PHP. A port of Atom File-icons, https://github.com/file-icons/atom",
     "keywords": ["php", "icons", "octicons", "FontAwesome", "Mfizz", "devicons"],
     "homepage": "https://github.com/websemantics/file-icons",
