@@ -2,13 +2,13 @@
     "name": "ilias-sp/file-icons",
     "description": "File specific icons for PHP. A port of Atom File-icons, https://github.com/file-icons/atom",
     "keywords": ["php", "icons", "octicons", "FontAwesome", "Mfizz", "devicons"],
-    "homepage": "https://github.com/websemantics/file-icons",
+    "homepage": "https://github.com/ilias-sp/file-icons",
     "type": "library",
     "license" : "MIT",
     "authors": [
         {
-            "name": "Adnan M.Sagar, PhD.",
-            "homepage": "https://github.com/websemantics"
+            "name": "ilias-sp",
+            "homepage": "https://github.com/ilias-sp"
         }
     ],
     "require": {
